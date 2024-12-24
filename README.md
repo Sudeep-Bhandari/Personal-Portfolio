@@ -1,6 +1,6 @@
-# Portfolio Website
+# Portfolio 
 
-A personal portfolio website created using HTML and CSS. This website serves as a platform to showcase my skills, projects, and contact information.
+A personal portfolio created using HTML and CSS. This website serves as a platform to showcase my skills, projects, and contact information.
 
 ---
 
