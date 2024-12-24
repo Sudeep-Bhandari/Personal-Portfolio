@@ -24,7 +24,7 @@ A personal portfolio website created using HTML and CSS. This website serves as 
 
 ## Demo
 
-Check out the live demo: [Portfolio Live Demo](https://github.com/Sudeep-Bhandari/portfolio)  
+Check out the live demo: [Portfolio Live Demo](http://127.0.0.1:5500/portfoli-main/index.html)
 
 
 ---
