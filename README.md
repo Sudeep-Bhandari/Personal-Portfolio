@@ -24,8 +24,8 @@ A personal portfolio website created using HTML and CSS. This website serves as 
 
 ## Demo
 
-Check out the live demo: [Portfolio Live Demo](#)  
-> _Replace `#` with the link to your hosted portfolio, e.g., GitHub Pages._
+Check out the live demo: [Portfolio Live Demo](https://github.com/Sudeep-Bhandari/portfolio)  
+
 
 ---
 
