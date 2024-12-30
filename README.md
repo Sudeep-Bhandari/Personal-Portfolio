@@ -57,9 +57,5 @@ Feel free to explore the website and view the different sections. You can custom
 Contributions are welcome! If you have any ideas or improvements, feel free to fork the repository, open an issue, or submit a pull request.
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the [MIT](https://choosealicense.com/licenses/mit/) License.
 
-## Future Improvements
-Add JavaScript for interactive elements.
-Implement a blog section to share insights and updates.
-Include animations and transitions to enhance user experience
