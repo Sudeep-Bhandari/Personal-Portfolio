@@ -24,7 +24,7 @@ A personal portfolio created using HTML and CSS. This website serves as a platfo
 
 ## Demo
 
-➤ **Live Demo**: *(file:///C:/Users/sudee/OneDrive/Desktop/Main%20Projects/Personal-Portfolio/index.html
+➤ **Live Demo**: *(file:///C:/Users/sudee/OneDrive/Desktop/Main%20Projects/Personal-Portfolio/index.html)*
 
 ---
 
